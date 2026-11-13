@@ -15,4 +15,6 @@ agents:
       source: harness/do-needs-triage.yaml
     - name: do-needs-write
       source: harness/do-needs-write.yaml
+    - name: do-on-label
+      source: harness/do-on-label.yaml
 mint_url: https://bt-9f892f82-bt-mint.fullsend-ai.workers.dev
